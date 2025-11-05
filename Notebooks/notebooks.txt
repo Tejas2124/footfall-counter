@@ -1,0 +1,16 @@
+here is the notebook for DeepSORT 
+using this notebook you can perform the same operation as app, but it will be more accuracte as well as heavy
+you need GPU's like P100 and so on, for running the algorithm smooth,
+
+
+for Kaggle 
+
+create a dataset for yourpersonal
+add video to it,
+add the dataset inside the kaggle workspace environment
+use the video path for the input 
+run the cells 
+at the end you will get the processed video inside the output.
+Download the video , 
+For the cordinates use the same video using the streamlit and get the cordinates from the app.
+use the cordinates inside the notebook.the line will be set by it.
