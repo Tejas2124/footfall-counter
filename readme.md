@@ -120,3 +120,12 @@ streamlit run app.py
 **Tejas Raval**  
 📧 [Mail](2x3osjs@gmail.com)  
 💼 LinkedIn: [Tejas Raval](https://www.linkedin.com/in/tejas-raval-2a5103234/])
+
+---
+
+## Video Explaination
+
+* ### **In hindi**   
+[![Hindi Video](https://i9.ytimg.com/vi/HEaOSsQCAnI/mq2.jpg?sqp=CJipr8gG&rs=AOn4CLDk1Szwq10ZKPvbUq33ZzTT3d0V8Q)](https://youtu.be/UryzXhXC6U4)
+* ### **In English**   
+[![English Video](https://i9.ytimg.com/vi/HEaOSsQCAnI/mq2.jpg?sqp=CJipr8gG&rs=AOn4CLDk1Szwq10ZKPvbUq33ZzTT3d0V8Q)](https://youtu.be/HEaOSsQCAnI)
