@@ -35,7 +35,7 @@ def process_frame(frame):
                 detections.append([box[0], box[1], box[2], box[3], conf, 0])
 
     detections = np.array(detections) if len(detections) > 0 else np.empty((0, 6))
-    tracks = tracker.update(detections)
+    tracks = tracker.update(detections,1)# 1 is required positional argument , which is not used inside the update function, i have added this just to avoid error, there is not usage of it inside the function but required just as positional argument.
 
     # --- Draw user-defined line ---
     if line_coords:
